@@ -1,0 +1,6 @@
+Hello, this is the first line.
+This is the second line with number: 42
+And this is the third line with a float: 3.14
+This is an appended line.
+Here is another appended line with number: 100
+And one more with a special character: @
